@@ -1,0 +1,75 @@
+*{}
+input{
+    display: block;
+}
+.genre{
+   /*  display: block; */
+}
+button{
+    color: #ce0000;
+    background-color: #000000;
+    font-size: 1.0em;
+    height: 50;
+    width: 50;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    padding: 10px;
+    margin-right: 80px; 
+    border-radius: 20px;}
+    button:hover {
+        background-color: #ffffff; /* Green */
+        color: rgb(0, 0, 0);
+        cursor: pointer;
+     }
+ input{
+     border-radius: 20px;
+     font-size: medium;
+     margin-top: 20px;
+     margin-left: 300px;
+     padding: 10px;
+}
+div{
+    background-color: rgb(209, 209, 209);
+    text-align: centers;
+    margin-top: 60px;
+    margin-left: 500px;
+    padding: 20px;
+}
+
+#cqcq {
+    font-size: x-large;
+    display: inline-block;
+    
+} 
+h4{
+    background-color: srgb(0, 0, 0);
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 0px;
+    padding: 20px;
+    margin-right: 60px; 
+    color: #be0000;
+}
+label{
+    margin-top: 60px;
+    margin-left: 300px;
+    padding: 20px;
+   
+}
+#elza{
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 20px;
+    font-size:x-large;
+}
+#ville{
+    font-size: medium;
+    color: #000000;
+}
+.ilyass{
+    font-size: x-large;
+}
+.labels{
+  align-content:;
+}
